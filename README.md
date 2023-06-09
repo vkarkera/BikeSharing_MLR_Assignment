@@ -33,7 +33,7 @@ You are required to model the demand for shared bikes with the available indepen
     Steps for Multiple Linear Regression :
         Data Reading & Understanding
         Data Visualisation
-        creating Dummy Variables
+        Creating Dummy Variables
         Exploratory Data Analysis
         Rescaling Features
         Model Building
